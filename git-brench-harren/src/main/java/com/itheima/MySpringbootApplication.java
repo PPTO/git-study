@@ -8,6 +8,7 @@ public class MySpringbootApplication {
     public static void main(String[] args) {
         SpringApplication.run(MySpringbootApplication.class);
         test();
+        test2();
     }
 
     public static void test(){
