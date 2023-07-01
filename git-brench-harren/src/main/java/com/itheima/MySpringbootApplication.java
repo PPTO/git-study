@@ -18,4 +18,8 @@ public class MySpringbootApplication {
     public static void test2(){
         System.out.println("test from reset");
     }
+
+    public static void test3(){
+        System.out.println("test from brench");
+    }
 }
