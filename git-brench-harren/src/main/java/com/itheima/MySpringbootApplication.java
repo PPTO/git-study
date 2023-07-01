@@ -7,9 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MySpringbootApplication {
     public static void main(String[] args) {
         SpringApplication.run(MySpringbootApplication.class);
+        test();
     }
 
-    public void test(){
+    public static void test(){
         System.out.println("test from brench harren");
     }
 }
