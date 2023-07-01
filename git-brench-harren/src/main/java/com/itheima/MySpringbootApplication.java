@@ -13,4 +13,8 @@ public class MySpringbootApplication {
     public static void test(){
         System.out.println("test from brench harren");
     }
+
+    public static void test2(){
+        System.out.println("test from reset");
+    }
 }
