@@ -21,5 +21,6 @@ public class MySpringbootApplication {
 
     public static void test3(){
         System.out.println("test from brench");
+        System.out.println("test from refix");
     }
 }
