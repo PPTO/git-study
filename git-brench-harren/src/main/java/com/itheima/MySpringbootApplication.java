@@ -9,6 +9,7 @@ public class MySpringbootApplication {
         SpringApplication.run(MySpringbootApplication.class);
         test();
         test2();
+        System.out.println("this edit from online");
     }
 
     public static void test(){
