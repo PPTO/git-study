@@ -10,6 +10,7 @@ public class MySpringbootApplication {
         test();
         test2();
         test3();
+        System.out.println("this edit from online");
     }
 
     public static void test(){
