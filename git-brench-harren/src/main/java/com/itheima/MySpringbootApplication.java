@@ -9,6 +9,7 @@ public class MySpringbootApplication {
         SpringApplication.run(MySpringbootApplication.class);
         test();
         test2();
+        test3();
     }
 
     public static void test(){
