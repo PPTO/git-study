@@ -3,6 +3,8 @@ package com.itheima;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import java.sql.SQLOutput;
+
 @SpringBootApplication
 public class MySpringbootApplication {
     public static void main(String[] args) {
@@ -10,6 +12,8 @@ public class MySpringbootApplication {
         test();
         test2();
         test3();
+        System.out.println("this edit from online");
+        System.out.println("test Tag");
     }
 
     public static void test(){
@@ -22,5 +26,6 @@ public class MySpringbootApplication {
 
     public static void test3(){
         System.out.println("test from brench");
+        System.out.println("test from refix");
     }
 }
